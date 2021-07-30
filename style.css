@@ -1,5 +1,21 @@
 body {
     font-family: "Garamond", "Tiempos Text", "Futura", sans-serif;
-    background-color: #f2dfce;
+    background-color: #0D7680;
 }
 
+#header {
+
+}
+
+body div {
+    background-color: #F2DFCE;
+}
+
+img {
+    padding: 15px;
+}
+
+#header-title {
+    font-size: 20px;
+    padding: 10px;
+}
